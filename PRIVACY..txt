@@ -1,0 +1,43 @@
+(EN)
+PRIVACY POLICY
+
+App Name: Windows and Android Application Monitor Pro
+Developer: SoluCore-Tech
+
+1. DATA COLLECTION (OUR APP)
+Our application is designed with extreme privacy and high performance in mind. We do NOT collect, store, transmit, or harvest any personal data, user accounts, or private information from your computer or connected Android devices. All performance data metrics (CPU, RAM, GPU, Battery, and process names) are read locally in real-time and remain entirely on your machine.
+
+2. THIRD-PARTY ADVERTISING SDKs
+To provide free access, this application loads advertisements using third-party networks (Adsterra). These third-party services may automatically collect certain technical information when rendering ads, including:
+- Internet Protocol (IP) address (used for geo-targeting and delivering localized ads).
+- Device identifiers, operating system version, and browser characteristics.
+These third-party providers handle your data according to their own privacy policies. We do not have access to, control over, or storage of this data.
+
+3. IN-APP PURCHASES
+All premium transactions are processed securely through the Microsoft Store infrastructure. We do not collect or store financial data, credit card numbers, or billing addresses.
+
+4. CHANGES TO THIS POLICY
+We reserve the right to modify this privacy policy at any time. Any changes will be updated directly within the application repository or store listing.
+
+--------------------------------------------------------------------------------------
+
+(PT)
+POLÍTICA DE PRIVACIDADE
+
+Nome do Aplicativo: Windows and Android Application Monitor Pro
+Desenvolvedor: SoluCore-Tech
+
+1. COLETA DE DADOS (NOSSO APLICATIVO)
+Nosso aplicativo foi desenvolvido com foco em privacidade máxima e alto desempenho. Nós NÃO coletamos, armazenamos, transmitimos ou extraímos quaisquer dados pessoais, contas de usuário ou informações privadas do seu computador ou de dispositivos Android conectados. Todas as métricas de desempenho (processadores, RAM, GPU, bateria e nomes de processos) são lidas localmente em tempo real e permanecem inteiramente em sua máquina.
+
+2. SDKs DE ANÚNCIOS DE TERCEIROS
+Para fornecer acesso gratuito, este aplicativo carrega anúncios usando redes de terceiros (Adsterra). Esses serviços de terceiros podem coletar automaticamente certas informações técnicas ao renderizar os anúncios, incluindo:
+- Endereço de Protocolo de Internet (IP) (usado para direcionamento geográfico e entrega de anúncios localizados).
+- Identificadores de dispositivo, versão do sistema operacional e características do navegador.
+Esses provedores terceirizados gerenciam seus dados de acordo com suas próprias políticas de privacidade. Nós não temos acesso, controle ou armazenamento desses dados.
+
+3. COMPRAS NO APLICATIVO
+Todas as transações premium são processadas de forma segura através da infraestrutura da Microsoft Store. Nós não coletamos ou armazenamos dados financeiros, números de cartão de crédito ou endereços de faturamento.
+
+4. ALTERAÇÕES NESTA POLÍTICA
+Reservamo-nos o direito de modificar esta política de privacidade a qualquer momento. Quaisquer alterações serão atualizadas diretamente dentro do repositório do aplicativo ou na listagem da loja.
