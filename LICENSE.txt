@@ -1,4 +1,4 @@
-(EN)
+(EN) 
 END USER LICENSE AGREEMENT (EULA) & TERMS OF SERVICE
 
 App Name: Windows and Android Application Monitor Pro
